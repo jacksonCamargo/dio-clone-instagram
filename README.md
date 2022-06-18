@@ -2,7 +2,7 @@
 entrega do desafio "clonando a interface do Instagram"  com html, css flex box
 
 utilizamos diversas propriedades do css flex - box para o desenvolvimento em questão.
-colocamos em pratica neste projeto de "clanagem do instagram"todo o aprendizado da aula de "posicionamento com elementos em css flex box
+colocamos em pratica neste projeto de "clonagem do instagram"todo o aprendizado da aula de "posicionamento com elementos em css flex box
 
 ##links super úteis##
 
